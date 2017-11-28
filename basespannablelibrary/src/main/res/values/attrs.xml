@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseSpannableTextView">
+        <attr name="baseKeys" format="string"/>
+        <attr name="baseKeysSize" format="dimension"/>
+        <attr name="baseKeysColor" format="color"/>
+        <attr name="baseKeyUnderLineColor" format="color"/>
+        <attr name="baseKeyUnderLine" format="boolean"/>
+    </declare-styleable>
+</resources>
